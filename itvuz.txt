@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1,Animal Planet
+https://itv.uz/19
+#EXTINF:-1,Animal Planet HD
+https://itv.uz/9
+#EXTINF:-1,AzonTV
+https://itv.uz/87
+#EXTINF:-1,Bolajon
+https://itv.uz/59
+#EXTINF:-1,Discovery Channel
+https://itv.uz/20
+#EXTINF:-1,Discovery Channel HD
+https://itv.uz/10
+#EXTINF:-1,Disney
+https://itv.uz/21
+#EXTINF:-1,Dunyo Boylab
+https://itv.uz/61
+#EXTINF:-1,FashionTV
+https://itv.uz/26
+#EXTINF:-1,Kinoteatr HD
+https://itv.uz/62
+#EXTINF:-1,Kinoteatr HD
+https://itv.uz/86
+#EXTINF:-1,Madaniyat va Marifat
+https://itv.uz/63
+#EXTINF:-1,Mahalla
+https://itv.uz/64
+#EXTINF:-1,Mening Yurtim
+https://itv.uz/66
+#EXTINF:-1,Milliy TV
+https://itv.uz/65
+#EXTINF:-1,NAT Geo Wild
+https://itv.uz/30
+#EXTINF:-1,Nat Geo Wild HD
+https://itv.uz/80
+#EXTINF:-1,National Geographic
+https://itv.uz/27
+#EXTINF:-1,National Geographic HD
+https://itv.uz/14
+#EXTINF:-1,Navo
+https://itv.uz/67
+#EXTINF:-1,O'zbekiston 24
+https://itv.uz/60
+#EXTINF:-1,O'zbekiston 24 HD
+https://itv.uz/29
+#EXTINF:-1,O'zbekiston tarixi
+https://itv.uz/84
+#EXTINF:-1,O'zbekiston telecanali
+https://itv.uz/71
+#EXTINF:-1,Oilaviy
+https://itv.uz/68
+#EXTINF:-1,oshlar
+https://itv.uz/75
+#EXTINF:-1,Sevimli tv
+https://itv.uz/77
+#EXTINF:-1,Toshkent
+https://itv.uz/74
+#EXTINF:-1,Viasat Explore
+https://itv.uz/28
+#EXTINF:-1,Viasat History
+https://itv.uz/4
+#EXTINF:-1,Zo'r TV
+https://itv.uz/69
+#EXTINF:-1,Авто Плюс
+https://itv.uz/48
+#EXTINF:-1,Детский мир
+https://itv.uz/17
+#EXTINF:-1,Дом кино
+https://itv.uz/44
+#EXTINF:-1,Звезда
+https://itv.uz/58
+#EXTINF:-1,Индийское кино
+https://itv.uz/35
+#EXTINF:-1,Карусель
+https://itv.uz/2
+#EXTINF:-1,Кинопоказ
+https://itv.uz/49
+#EXTINF:-1,Киносвидание
+https://itv.uz/36
+#EXTINF:-1,Кинохит
+https://itv.uz/15
+#EXTINF:-1,Клуб Путешествий
+https://itv.uz/70
+#EXTINF:-1,Матч! Арена
+https://itv.uz/40
+#EXTINF:-1,Музыка первого
+https://itv.uz/45
+#EXTINF:-1,Охота и рыбалка
+https://itv.uz/51
+#EXTINF:-1,Родное кино
+https://itv.uz/38
+#EXTINF:-1,Россия 24
+https://itv.uz/31
+#EXTINF:-1,Россия К
+https://itv.uz/32
+#EXTINF:-1,ТВ-3
+https://itv.uz/54
+#EXTINF:-1,Телекафе
+https://itv.uz/46
+#EXTINF:-1,ТЕХНО 24
+https://itv.uz/47
