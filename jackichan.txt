@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1,Искусство Шаолиня – змея и журавль (1978)
+https://kodik.cc/video/33520/3785db29c9b58967d03d45df36e1ddf5/720p&kp_id=24723
+#EXTINF:-1,Великолепные телохранители (1978)
+https://kodik.cc/video/45130/e1624a7a31e2b10efbf8ef723882e11e/720p&kp_id=24727
+#EXTINF:-1,Астральное кунг-фу (1978)
+https://kodik.cc/video/10376/567728620838ca31d6fe73b327986889/720p&kp_id=24725
+#EXTINF:-1,Рыцарь теней: Между инь и ян (2019)
+https://kodik.cc/video/33566/6185ec7a33b1f0cd148fe449c32c2cd9/720p&kp_id=1088117
+#EXTINF:-1,Сердце из стали (2017)
+https://zabava-htvod.cdn.ngenix.net/hls/hd_2017_Serdce_iz_stali__q0w2_film/variant.m3u8?kp_id=988953
+#EXTINF:-1,Доспехи бога: В поисках сокровищ (2017)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=851808
+#EXTINF:-1,Иностранец (2017)
+https://megogo.net/view/2410021-inostranec.html?kp_id=618287
+#EXTINF:-1,Меч дракона (2015)
+https://kodik.cc/video/21259/b88b21cd6fc57ecafe10d6ea2e3cdd50/720p&kp_id=840009
+#EXTINF:-1,Полицейская история 2013 (2013)
+https://kodik.cc/video/4510/ebbccd3e4bbb3e281eef2e13b549d2cc/720p&kp_id=731079
+#EXTINF:-1,Доспехи Бога 3: Миссия Зодиак (2012)
+https://kodik.cc/video/2194/00ef109189ae3d7c04a566c23ecf582d/720p&kp_id=654749
+#EXTINF:-1,Шаолинь (2011)
+https://kodik.cc/video/12826/0635c55d77de560235017704f2df89f0/720p&kp_id=484439
+#EXTINF:-1,Каратэ-пацан (2010)
+https://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Karate_pacan__q0w2_film/variant.m3u8?kp_id=8412162
+#EXTINF:-1,В поисках Джеки (2009)
+https://kodik.cc/video/45327/7738fe9540b54b6931be27bfad40f72f/720p&kp_id=470719
+#EXTINF:-1,Запретное царство (2008)
+https://megogo.net/view/8000-zapretnoe-carstvo.html?kp_id=271999
+#EXTINF:-1,Час пик 3 (2007)
+https://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Chas_pik_3__q1w0_film/variant.m3u8?kp_id=822978
+#EXTINF:-1,Младенец на $30 000 000 (2006)
+https://kodik.cc/video/801/132e1b8f09d3bad0a91bf2f3f9967993/720p&kp_id=196952
+#EXTINF:-1,Миф (2005)
+https://kodik.cc/video/24019/9963bc07555912453acfb7891c5d2399/720p&kp_id=24686
+#EXTINF:-1,Новая полицейская история (2004)
+https://kodik.cc/video/13614/4afccf040d5de92405d776687b94a9ef/720p&kp_id=77445
+#EXTINF:-1,Вокруг света за 80 дней (2004)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=6297
+#EXTINF:-1,Медальон (2003)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=5575
+#EXTINF:-1,Шанхайские рыцари (2003)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=828
+#EXTINF:-1,Смокинг (2002)
+https://zabava-htvod.cdn.ngenix.net/hls/hd_2002_Smoking__q0w0_ar6e2_film/variant.m3u8?kp_id=2930
+#EXTINF:-1,Час пик 2 (2001)
+https://zabava-htvod.cdn.ngenix.net/hls/sd_2001_Chas_pik_2__q1w0_film/variant.m3u8?kp_id=8812
+#EXTINF:-1,Случайный шпион (2000)
+https://zabava-htvod.cdn.ngenix.net/hls/sd_2000_Sluchaynyy_shpion__q0w0_film/variant.m3u8?kp_id=24687
+#EXTINF:-1,Шанхайский полдень (2000)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=829
+#EXTINF:-1,Великолепный (1999)
+https://kodik.cc/video/16060/fc76a5d5ca4f5ceb8ab5e2f255dab864/720p&kp_id=22803
+#EXTINF:-1,Час пик (1998)
+https://zabava-htvod.cdn.ngenix.net/hls/sd_1998_Chas_pik__q0w2_film/variant.m3u8?kp_id=86345
+#EXTINF:-1,Первый удар (1995)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=24692
+#EXTINF:-1,Громобой (1995)
+https://kodik.cc/video/25441/1146ebf613d4c0aa708295d8da67960a/720p&kp_id=24694
+#EXTINF:-1,Пьяный мастер 2 (1994)
+https://kodik.cc/video/44630/d2b56ac3877cc3715f3b889b2218903a/720p&kp_id=24695
+#EXTINF:-1,Операция «Феникс» (2004)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=84056
+#EXTINF:-1,Кто я? (1998)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=24690
+#EXTINF:-1,Разборка в Бронксе (1995)
+https://zabava-htvod.cdn.ngenix.net/hls/hd_1995_Razborka_v_bronkse__q0w2_film/variant.m3u8?kp_id=24693
+#EXTINF:-1,Суперполицейский 2 (1993)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=13715
+#EXTINF:-1,Криминальная история (1993)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=24696
+#EXTINF:-1,Городской охотник (1992)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=24698
+#EXTINF:-1,Полицейская история 3: Суперполицейский (1992)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=13720
+#EXTINF:-1,Близнецы-драконы (1991)
+https://videocdn.so/fnXOUDB9nNSO?kp_id=19273
+#EXTINF:-1,Доспехи Бога 2: Операция Кондор (1991)
+https://kodik.cc/video/2202/f48b172f28c397eda4448c1fc43baea4/720p&kp_id=24701
+#EXTINF:-1,Доспехи Бога (1986)
+https://kodik.cc/video/2203/edc9347128a8c720eb674f545b0cb610/720p&kp_id=24705
+#EXTINF:-1,Закусочная на колесах (1984)
+https://kodik.cc/video/619/5da67eb1cf1bb54baba18eb047a4e7cf/720p&kp_id=24705
+#EXTINF:-1,Железнодорожные тигры (2016)
+https://kodik.cc/video/21178/2871340724cdcbcf8e5d035b24ffd6db/720p&kp_id=910074
+#EXTINF:-1,Инцидент Синдзюку (2009)
+https://kodik.cc/video/30707/de5bbb6e91b8cb6a7084b2efe2bdd1cc/720p&kp_id=394468
+#EXTINF:-1,Остров огня (1990)
+https://kodik.cc/video/44939/dc919b5d1ac5436cdb1d18b9cb13779b/720p&kp_id=24702
+#EXTINF:-1,Чудеса (1989)
+https://kodik.cc/video/12975/c9d2748365d6bebd431fcb8d2425e694/720p&kp_id=24703
+#EXTINF:-1,Полицейская история 2 (1988)
+https://kodik.cc/video/44606/fd7793b5bb1c0bcd4e589bf957b9a570/720p&kp_id=22777
+#EXTINF:-1,Драконы навсегда (1988)
+https://kodik.cc/video/12098/766e0b583e57c3d9cac49bd3c0efbfbc/720p&kp_id=24704
+#EXTINF:-1,Озорные парни (1986)
+https://kodik.cc/video/37826/38d5ff2b2efc27645f107e1030306c49/720p&kp_id=24707
+#EXTINF:-1,Полицейская история (1985)
+https://kodik.cc/video/4541/26885b694753c813eb6cb57932657b4d/720p&kp_id=22791
+#EXTINF:-1,Сердце дракона (1985)
+https://kodik.cc/video/6256/efc4c1a72ae8cb9e094decbd37e1b2b7/720p&kp_id=24709
+#EXTINF:-1,Мои счастливые звезды 2 (1985)
+https://kodik.cc/video/2217/4dc236b6872ccbfe651c6f3b89ac2755/720p&kp_id=13725
+#EXTINF:-1,Мои счастливые звезды (1985)
+https://kodik.cc/video/18165/964cdc156f032fef097ecbad3a5d2922/720p&kp_id=24708
+#EXTINF:-1,Проект А (1983)
+https://kodik.cc/video/6229/8a0764072e562d15a6b253128af04524/720p&kp_id=21606
+#EXTINF:-1,Особое задание (1983)
+https://kodik.cc/video/45482/ed8e68783cc7d9b42f0f9dc173536c47/720p&kp_id=8395
+#EXTINF:-1,Лорд Дракон (1981)
+https://kodik.cc/video/46419/c6252e5ccb84ab7a84ba7a094d2542cf/720p&kp_id=24719
+#EXTINF:-1,Молодой мастер (1980)
+https://kodik.cc/video/14095/e2a31925ce7d1308ce4e83332090af7e/720p&kp_id=24721
+#EXTINF:-1,Кулак дракона (1979)
+https://kodik.cc/video/11527/b2cc50d3ba055e4acb9c872688d6590c/720p&kp_id=24722
+#EXTINF:-1,Пьяный мастер (1978)
+https://kodik.cc/video/5871/50f0e2cc3c05661ec6b2eb2816499458/720p&kp_id=24726
+#EXTINF:-1,Отпетые напарники (2015)
+https://megogo.ru/ru/view/2408211-otpetye-naparniki.html?kp_id=689957
+#EXTINF:-1,Шпион по соседству (2009)
+https://megogo.net/view/6596-shpion-po-sosedstvu.html?kp_id=431539
+#EXTINF:-1,Большой солдат (2010)
+https://megogo.net/view/256-bolshoy-soldat.html?kp_id=455218
+#EXTINF:-1,Мистер Крутой (1996)
+https://kodik.cc/video/13340/cb41d26250df90679abbef9835d5476e/720p&kp_id=24691
+#EXTINF:-1,Бесстрашная гиена 2 (1980)
+https://kodik.cc/video/45377/6c93d0e4b33b887be019862356bf84c3/720p&kp_id=24716
+#EXTINF:-1,Бесстрашная гиена (1979)
+https://kodik.cc/video/44693/7e3c454d75402cf3c0ba8a48cdb11607/720p&kp_id=19249
+#EXTINF:-1,Змея в тени орла (1978)
+https://kodik.cc/video/11850/d4a9c761c0cd6222beb5987ac19ddfb6/720p&kp_id=24724
