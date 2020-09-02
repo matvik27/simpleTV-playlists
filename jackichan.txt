@@ -26,7 +26,7 @@ https://zabava-htvod.cdn.ngenix.net/hls/sd_2010_Karate_pacan__q0w2_film/variant.
 #EXTINF:-1,В поисках Джеки (2009)
 https://kodik.cc/video/45327/7738fe9540b54b6931be27bfad40f72f/720p&kp_id=470719
 #EXTINF:-1,Запретное царство (2008)
-https://megogo.net/view/8000-zapretnoe-carstvo.html?kp_id=271999
+http://videocdn.so/fnXOUDB9nNSO/movie/4168?kp_id=271999
 #EXTINF:-1,Час пик 3 (2007)
 https://zabava-htvod.cdn.ngenix.net/hls/sd_2007_Chas_pik_3__q1w0_film/variant.m3u8?kp_id=822978
 #EXTINF:-1,Младенец на $30 000 000 (2006)
@@ -120,7 +120,7 @@ https://megogo.ru/ru/view/2408211-otpetye-naparniki.html?kp_id=689957
 #EXTINF:-1,Шпион по соседству (2009)
 https://megogo.net/view/6596-shpion-po-sosedstvu.html?kp_id=431539
 #EXTINF:-1,Большой солдат (2010)
-https://megogo.net/view/256-bolshoy-soldat.html?kp_id=455218
+http://videocdn.so/fnXOUDB9nNSO/movie/9014?kp_id=455218
 #EXTINF:-1,Мистер Крутой (1996)
 https://kodik.cc/video/13340/cb41d26250df90679abbef9835d5476e/720p&kp_id=24691
 #EXTINF:-1,Бесстрашная гиена 2 (1980)
