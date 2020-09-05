@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",BLACK (М24) 🌚
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",BLACK (М24) 🌚
 m24_blacktv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",DANCE (М24) 🕺💃
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",DANCE (М24) 🕺💃
 m24_dancetv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",DJ LIVE (М24) 🎤🎙
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",DJ LIVE (М24) 🎤🎙
 m24_djlivetv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",HARD (М24) ⚡
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",HARD (М24) ⚡
 m24_hardtv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",HOT (М24) 🔥
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",HOT (М24) 🔥
 m24_hottv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",I'MUSIC (М24) 🎵🎶
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",I'MUSIC (М24) 🎵🎶
 m24_mtv
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwuIO39Uz9LKHZ8r_ZLWPGUdoVdLeFs_wHuq2AANth3anI-i6k" video-title="Фильмы" video-desk="https://megogo.net",Made in USSR ☭🎞️
 made_in_ussr
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",MUSIC24 (М24) 🎼
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",MUSIC24 (М24) 🎼
 m24_m24tv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",OLD (М24) 👴👵
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",OLD (М24) 👴👵
 m24_oldtv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",ROCK (М24) 🎸
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",ROCK (М24) 🎸
 m24_rocktv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",SLOW (М24) 🐢🐌
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",SLOW (М24) 🐢🐌
 m24_slowtv
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/cUReVrG.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",TRANCE (М24) ☠
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",TRANCE (М24) ☠
 m24_trancetv
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://sun9-19.userapi.com/c853520/v853520736/39771/kknA9bQ9jRA.jpg" video-title="Ретро видео клипы" video-desk="https://zvif.ucoz.com",Zvif TV 👺
 zvif
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://lh4.googleusercontent.com/proxy/QeqL1b6TeDDb4ksmwf6XyIMsofrP90HCHe1GL_NpKzEX_X4fZD0ioar3kMdG6RI0xIopJaBn97iudZ-JXKFYXDLj4Q" video-title="Фильмы" video-desk="http://www.ivi.ru",Фильмы СССР ☭🎞️
 film_ussr
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/PZfSPrd.png" video-title="Фильмы" video-desk="https://yandex.ru",Кино СССР ☭🎞️
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/kino_ussr.png" video-title="Фильмы" video-desk="https://yandex.ru",Кино СССР ☭🎞️
 kino_ussr
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/59gVEMu.png" video-title="Фильмы" video-desk="https://yandex.ru",Кинопоход! 🎞️
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/kino_pohod.png" video-title="Фильмы" video-desk="https://yandex.ru",Кинопоход! 🎞️
 kino_pohod
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/4OUfv39.png" video-title="Фильмы" video-desk="https://more.tv",Море фильмов 🎞️
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/more_film.png" video-title="Фильмы" video-desk="https://more.tv",Море фильмов 🎞️
 more_film
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/NfpEftS.png" video-title="Фильмы" video-desk="https://wink.rt.ru",Бонд 007 🔫🎞️
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/bond_007.png" video-title="Фильмы" video-desk="https://wink.rt.ru",Бонд 007 🔫🎞️
 bond_007
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/HMDKwdg.gif" video-title="Фильмы" video-desk="https://videocdn.tv | http://kodik.cc | https://wink.rt.ru | https://megogo.net",Джеки Чан ТВ 👊🎞️
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/jackie_chan.png" video-title="Фильмы" video-desk="https://videocdn.tv | http://kodik.cc | https://wink.rt.ru | https://megogo.net",Джеки Чан ТВ 👊🎞️
 jackie_chan
