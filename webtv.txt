@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1,Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:-1,Olympic Channel HD
