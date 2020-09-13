@@ -11,7 +11,7 @@ m24_hardtv
 m24_hottv
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",I'MUSIC (М24) 🎵🎶
 m24_mtv
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwuIO39Uz9LKHZ8r_ZLWPGUdoVdLeFs_wHuq2AANth3anI-i6k" video-title="Фильмы" video-desk="https://megogo.net",Made in USSR ☭🎞️
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/made_in_ussr.png" video-title="Фильмы" video-desk="https://megogo.net",Made in USSR ☭🎞️
 made_in_ussr
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://raw.githubusercontent.com/Nexterr/simpleTV.img/master/m24.png" video-title="видео клипы" video-desk="Луганский Медиапортал - М24 http://m24.do.am",MUSIC24 (М24) 🎼
 m24_m24tv
