@@ -9,8 +9,6 @@ http://api.peers.tv/timeshift/firstmuz/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",49 канал (Новосибирск)
 http://api.peers.tv/timeshift/49kanal/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",78 канал (Санкт-Петербург)
-http://api.peers.tv/timeshift/78/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",8 канал
 http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",8 канал (Красноярск)
@@ -23,10 +21,16 @@ http://api.peers.tv/timeshift/amedia_2/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/amedia_hit/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Amedia Premium
 http://api.peers.tv/timeshift/amediapremium_hd/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Amedia Premium HD
+http://api.peers.tv/timeshift/amediapremium_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Animal Planet
 http://api.peers.tv/timeshift/animalplanet/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Animal Planet
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Animal Planet HD
 http://api.peers.tv/timeshift/animal_planet_hd/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",blue HUSTLER
+http://api.peers.tv/timeshift/bluehust/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Brazzers TV Europe
+http://api.peers.tv/timeshift/brazzers_tv_europe/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Bridge TV
 http://api.peers.tv/timeshift/bridge/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Bridge TV Classic
@@ -37,28 +41,30 @@ http://api.peers.tv/timeshift/bridge_hd/126/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/dange_tv/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",BRIDGE TV Русский Хит
 http://api.peers.tv/timeshift/rusong_tv/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Cartoon Network
+http://api.peers.tv/timeshift/cartoonnetwork/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Cinema
 http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Da Vinci
 http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Discovery Channel
 http://api.peers.tv/timeshift/discovery/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Discovery Channel
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Discovery Channel HD
 http://api.peers.tv/timeshift/discovery_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",DOCUBOX
 http://api.peers.tv/timeshift/docubox/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",DTX
 http://api.peers.tv/timeshift/discoveryworld/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Erox
+http://api.peers.tv/timeshift/erox/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Eurosport 1
 http://api.peers.tv/timeshift/eurosport/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Eurosport 1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Eurosport 1 HD
 http://api.peers.tv/timeshift/eurosport_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Eurosport 2
 http://api.peers.tv/timeshift/eurosport2/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Eurosport 2
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Eurosport 2 HD
 http://api.peers.tv/timeshift/eurosport_2_hd/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Extreme Sports
-http://api.peers.tv/timeshift/extreme_sports/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",FashionTV
 http://api.peers.tv/timeshift/fashion/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",FILMBOX
@@ -67,9 +73,11 @@ http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Fox
 http://api.peers.tv/timeshift/fox/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Fox
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Fox HD
 http://api.peers.tv/timeshift/fox_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Fox Life
+http://api.peers.tv/timeshift/foxlife_hd/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Fox Life HD
 http://api.peers.tv/timeshift/foxlife_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",KINO 24
 http://api.peers.tv/timeshift/kino24/126/playlist.m3u8?offset=1
@@ -81,27 +89,39 @@ http://api.peers.tv/timeshift/mtv_hd/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/mtv_russia/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Nat Geo Wild
 http://api.peers.tv/timeshift/nat_geo_wild/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Nat Geo Wild
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Nat Geo Wild HD
 http://api.peers.tv/timeshift/nat_geo_wild_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",National Geographic
 http://api.peers.tv/timeshift/natgeo/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",National Geographic
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",National Geographic HD
 http://api.peers.tv/timeshift/national_geographic_hd/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Nick Jr
+http://api.peers.tv/timeshift/nick_jr_baby/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Nickelodeon
+http://api.peers.tv/timeshift/nickelodeon/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Nickelodeon HD
+http://api.peers.tv/timeshift/nickelodeon_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",RTД
 http://api.peers.tv/timeshift/russia_today_doc/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",RU TV
 http://api.peers.tv/timeshift/rutv/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Russia Today
 http://api.peers.tv/timeshift/russiatoday/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Russian Travel Guide
+http://api.peers.tv/timeshift/rustravel/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",SOCHI24 (Сочи)
 http://api.peers.tv/timeshift/sochi24/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Song TV Armenia
+http://api.peers.tv/timeshift/mtvam/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Sony Channel
 http://api.peers.tv/timeshift/set/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Sony Sci-Fi
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",TiJi
+http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",TLC
 http://api.peers.tv/timeshift/tlc/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",TLC
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",TLC HD
 http://api.peers.tv/timeshift/tlc_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Travel + Adventure
 http://api.peers.tv/timeshift/travad/16/playlist.m3u8?offset=1
@@ -127,16 +147,24 @@ http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",VIP Premiere
 http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",VIP Serial HD
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Zooпаpк
 http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Авто 24
 http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Авто Плюс
 http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Башкортостан 24
+http://api.peers.tv/timeshift/bashkortostan_24/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Бокс ТВ
 http://api.peers.tv/timeshift/boks_tv/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ВРЕМЯ
 http://api.peers.tv/timeshift/time/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ГТРК Кузбасс
+http://api.peers.tv/timeshift/gtrk_kuzbass/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Детский мир
+http://api.peers.tv/timeshift/detskij_mir/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Диалоги о Рыбалке
 http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Дождь
@@ -149,8 +177,6 @@ http://api.peers.tv/timeshift/domashny/126/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/don_24/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Драйв
 http://api.peers.tv/timeshift/drive/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Дума ТВ
-http://api.peers.tv/timeshift/duma_tv/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Евпатория ТВ (Евпатория)
 http://api.peers.tv/timeshift/evpatorija/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Еврокино
@@ -175,8 +201,12 @@ http://api.peers.tv/timeshift/zoo_tv/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Индийское кино
 http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Июнь
+http://api.peers.tv/timeshift/iyun/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Калейдоскоп ТВ
 http://api.peers.tv/timeshift/kaleydoskop/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Карусель
+http://api.peers.tv/timeshift/karusel/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Кинокомедия
 http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Киномикс
@@ -203,13 +233,19 @@ http://api.peers.tv/timeshift/khl/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ЛДПР ТВ
 http://api.peers.tv/timeshift/ldpr_tv/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Любимое кино
+http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Ля-минор
 http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Малыш
+http://api.peers.tv/timeshift/malysh/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Мама
+http://api.peers.tv/timeshift/motherchi/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",МАТЧ ПРЕМЬЕР
 http://api.peers.tv/timeshift/nashfootballhd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Матч!
 http://api.peers.tv/timeshift/sport/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Матч!
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Матч! HD
 http://api.peers.tv/timeshift/match_tv_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Матч! Арена
 http://api.peers.tv/timeshift/sport1/16/playlist.m3u8?offset=1
@@ -243,14 +279,20 @@ http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Мужской
 http://api.peers.tv/timeshift/muzhskoj/126/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",МУЗ-ТВ
-http://api.peers.tv/timeshift/muz_tvnew/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",МУЛЬТ
+http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Мультимания
+http://api.peers.tv/timeshift/multimania/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Мультимузыка
+http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Настоящее страшное ТВ
 http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Наука
 http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Наша тема
 http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Нижний Новгород 24
+http://api.peers.tv/timeshift/nizhniy_novgorod_24/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ННТВ (Нижний Новгород)
 http://api.peers.tv/timeshift/nntv/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Ностальгия
@@ -271,13 +313,17 @@ http://api.peers.tv/timeshift/nts/126/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ОТВ 24 (Екатеринбург)
 http://api.peers.tv/timeshift/otv24_ekb/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ОТР
+http://api.peers.tv/timeshift/otvrus/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ОТС HD
+http://api.peers.tv/timeshift/ots/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Охота и рыбалка
 http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Охотник и рыболов
 http://api.peers.tv/timeshift/ohotnik_i_rybolov/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Первый
 http://api.peers.tv/timeshift/1kanal/126/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Первый
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Первый HD
 http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Первый вегетарианский
 http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?offset=1
@@ -293,6 +339,8 @@ http://api.peers.tv/timeshift/psych_21/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/friday/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Пятый канал
 http://api.peers.tv/timeshift/5kanal/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Радость моя
+http://api.peers.tv/timeshift/radost_moj/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",РБК
 http://api.peers.tv/timeshift/rbk/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",РЕН ТВ
@@ -301,14 +349,12 @@ http://api.peers.tv/timeshift/rentv/126/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/retro/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Россия 1
 http://api.peers.tv/timeshift/rossija/126/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Россия 1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Россия 1 HD
 http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Россия 24
 http://api.peers.tv/timeshift/vesti/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Ростов-папа (Ростов-на-дону)
 http://api.peers.tv/timeshift/rostov_papa/126/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",РТВ - Любимое кино
-http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Русский бестселлер
 http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Русский детектив
@@ -319,16 +365,36 @@ http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Русский Экстрим
 http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Салям
+http://api.peers.tv/timeshift/salyam/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Самотлор
+http://api.peers.tv/timeshift/samotlor/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Санкт-Петербург
+http://api.peers.tv/timeshift/topspb/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Сарафан
 http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Сказки Зайки
+http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Советские мультфильмы
+http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Советское кино
 http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Союз
+http://api.peers.tv/timeshift/soyuz/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",СПАС
+http://api.peers.tv/timeshift/spas/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",СТС
 http://api.peers.tv/timeshift/sts/126/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",СТС Kids
+http://api.peers.tv/timeshift/sts_kids/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТВ Центр
 http://api.peers.tv/timeshift/tvc/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТВ-3
 http://api.peers.tv/timeshift/tv3/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТВК
+http://api.peers.tv/timeshift/tvk_6/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТелеБалтНьюс
+http://api.peers.tv/timeshift/tbn/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Телекафе
 http://api.peers.tv/timeshift/telekafe/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Телепутешествия
@@ -341,17 +407,21 @@ http://api.peers.tv/timeshift/tivikom/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/tnv/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТНТ
 http://api.peers.tv/timeshift/tnt/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТНТ
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТНТ HD
 http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТНТ Music
+http://api.peers.tv/timeshift/tnt_music/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ТНТ4
 http://api.peers.tv/timeshift/tnt4/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Уникум
+http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Усадьба
 http://api.peers.tv/timeshift/usadba/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Успех
 http://api.peers.tv/timeshift/uspex/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Футбол
 http://api.peers.tv/timeshift/futbol/126/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Футбол
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Футбол HD
 http://api.peers.tv/timeshift/futbol_hd/126/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Центральное телевидение
 http://api.peers.tv/timeshift/tvc_ctv/126/playlist.m3u8?offset=1
@@ -361,7 +431,7 @@ http://api.peers.tv/timeshift/perec/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/shanson/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Ювелирочка
 http://api.peers.tv/timeshift/yuvelirochka/16/playlist.m3u8?offset=1
-#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Якутия 24 (Якутск)
-http://api.peers.tv/timeshift/yakutiya24/16/playlist.m3u8?offset=1
+#EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",ЮТВ
+http://api.peers.tv/timeshift/utv/16/playlist.m3u8?offset=1
 #EXTINF:-1 catchup="append" catchup-minutes="180" catchup-source="&offset=${offset}",Ямал-Регион (Салехард)
 http://api.peers.tv/timeshift/yamal_region/16/playlist.m3u8?offset=1
