@@ -63,8 +63,6 @@ http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Волгоград 24 (Волгоград)
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
-#EXTINF:-1 group-title="Регионы",Восток 24 (Владивосток)
-http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 group-title="Регионы",ВОТ тв (Липецк)
 http://rt-ct-lipetsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Время Н (Нижний Новгород)
@@ -113,7 +111,7 @@ http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Луч (Тарко-Сале)
 http://live.trk-luch.ru/streams.m3u8
-#EXTINF:-1 group-title="Регионы",М1 (Самара)
+#EXTINF:-1 group-title="Регионы",#ё (Самара)
 http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Майдан (Казань)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8
@@ -297,3 +295,15 @@ http://rt-nw-komi-htlive-lb.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
 http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
 #EXTINF:-1 group-title="Регионы",Ямал-Регион (Салехард)
 http://rt-ural-nbk-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Регионы",Арктика 24 (Ноябрьск)
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Регионы",ВТК Аргус (Воронеж)
+https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+#EXTINF:-1 group-title="Регионы",Кузбасс 1
+https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+#EXTINF:-1 group-title="Регионы",МЭТР (Йошкар-Ола)
+https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_YOLA_METR/variant.m3u8
+#EXTINF:-1 group-title="Регионы",Новое время (Радужный)
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
+#EXTINF:-1 group-title="Регионы",ОТВ (Владивосток)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
