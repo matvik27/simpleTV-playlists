@@ -96,7 +96,7 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8$OPT:NO-STIMESHIFT
 #EXTINF:-1,NTV News 24 (Japan)
 https://www.news24.jp/livestream/index.m3u8$OPT:http-referrer=https://www.news24.jp/$OPT:NO-STIMESHIFT
 #EXTINF:-1,OCEAN-TV HD
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/playlist.m3u8
+https://player.cdnvideo.ru/iframer.html?id=7SwGd3mioH
 #EXTINF:-1,Ocko TV Expres
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/index.m3u
 #EXTINF:-1,Ocko TV Gold
