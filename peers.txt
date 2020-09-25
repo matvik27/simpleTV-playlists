@@ -257,12 +257,6 @@ http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?offset=1
 http://api.peers.tv/timeshift/nash_futbol/16/playlist.m3u8?offset=1
 #EXTINF:-1 ,Матч! Страна
 http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?offset=1
-#EXTINF:-1 ,Матч! Футбол 1
-http://api.peers.tv/timeshift/match_football1_hd/16/playlist.m3u8?offset=1
-#EXTINF:-1 ,Матч! Футбол 2
-http://api.peers.tv/timeshift/match_football2_hd/16/playlist.m3u8?offset=1
-#EXTINF:-1 ,Матч! Футбол 3
-http://api.peers.tv/timeshift/match_football3_hd/16/playlist.m3u8?offset=1
 #EXTINF:-1 ,Мир
 http://api.peers.tv/timeshift/mir/126/playlist.m3u8?offset=1
 #EXTINF:-1 ,Мир 24
