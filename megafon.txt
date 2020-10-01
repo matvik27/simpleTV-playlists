@@ -39,7 +39,7 @@ https://play.megafon.tv/out/u/v1-video-6782132.mpd$OPT:NO-STIMESHIFT
 https://play.megafon.tv/out/u/v1-video-6348329.mpd$OPT:NO-STIMESHIFT
 #EXTINF:-1,А1 HD
 https://play.megafon.tv/out/u/v1-video-6370556.mpd$OPT:NO-STIMESHIFT
-#EXTINF:-1,А2 SD
+#EXTINF:-1,А2
 https://play.megafon.tv/out/u/v1-video-7731110.mpd$OPT:NO-STIMESHIFT
 #EXTINF:-1,Amedia Hit HD
 https://play.megafon.tv/out/u/v1-video-6370552.mpd$OPT:NO-STIMESHIFT
