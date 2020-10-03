@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Семёрка (Иркутск)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_SEMERKA/variant.m3u8
 #EXTINF:-1,#ё (Самара)
 https://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8
 #EXTINF:-1,11 канал (Пенза)
