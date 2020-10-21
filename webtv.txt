@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Nickelodeon (DE)
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8$OPT:http-ext-header=X-Forwarded-For:2.16.10.25
 #EXTINF:-1,RTP 1
 https://www.rtp.pt/play/direto/rtp1
 #EXTINF:-1,SI SOLOCALCIO
